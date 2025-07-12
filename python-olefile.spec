@@ -8,13 +8,13 @@
 Summary:	Python 2 module to parse, read and write Microsoft OLE2 files
 Summary(pl.UTF-8):	Moduł Pythona 2 do analizy, odczytu i zapisu plików Microsoft OLE2
 Name:		python-olefile
-Version:	0.46
-Release:	8
+Version:	0.47
+Release:	1
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/olefile/
 Source0:	https://files.pythonhosted.org/packages/source/o/olefile/olefile-%{version}.zip
-# Source0-md5:	af351575e53aa00c36ae1c71ee9b0043
+# Source0-md5:	d2e73480f90bb473fb5a89c22c8b96af
 URL:		https://pypi.org/project/olefile
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
